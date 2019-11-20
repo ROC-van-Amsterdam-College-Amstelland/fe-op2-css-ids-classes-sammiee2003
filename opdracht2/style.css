@@ -8,18 +8,72 @@ body{
     flex-direction: column;
 }
 
+
 img{
     width: 200px;
 }
+
 header, main, footer{
     width: 100%;
 }
+
 header, footer{
     height: 20%;
     background-color: rgb(243, 157, 171);
 }
+
 main{
     height: 80%;
     background-color: lightpink;
 }
 
+#img1{
+    margin: 20px;
+}
+
+#img2{
+    width: 400px;
+}
+
+#img3{
+    border: 1px solid black;
+
+}
+
+.class1{
+    display: flex;
+}
+
+#ul1{
+    padding-left: 20px;
+    
+}
+
+nav a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+main h1{
+    font-size: 50px;
+    background-color: rgb(243, 116, 137);
+
+}
+
+ul li{
+border: 1px dashed black;
+
+}
+
+h3 p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+img + ul li{
+    color: rgb(243, 116, 137);
+    list-style-type:circle ;
+}    
