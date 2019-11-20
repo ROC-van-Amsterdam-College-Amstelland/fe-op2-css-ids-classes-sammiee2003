@@ -11,5 +11,15 @@ body{
 img{
     width: 200px;
 }
-/* Einde aangeleverde code, laten staan, niet veranderen */
-/* Vul hieronder je eigen code */
+header, main, footer{
+    width: 100%;
+}
+header, footer{
+    height: 20%;
+    background-color: rgb(243, 157, 171);
+}
+main{
+    height: 80%;
+    background-color: lightpink;
+}
+
