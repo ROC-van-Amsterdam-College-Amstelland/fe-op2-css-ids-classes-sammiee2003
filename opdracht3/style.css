@@ -1,2 +1,37 @@
 
 
+header{
+    height: 150px;
+    width: 100%;
+    background-color: lightslategray;
+    
+}
+main{
+    height: 20%;
+    width: 100%;
+    background-color: lightsteelblue;
+    margin-top: 40px;
+}
+footer{
+    height: 150px;
+    width: 100%;
+    background-color: lightslategrey;
+}
+img{
+    height: 400px;
+    width: 100%;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+    color: linen;
+    text-decoration: none;
+}
+li a{
+    color: mediumturquoise;
+    margin: 40px;
+}
+body{
+    background-color: mintcream;
+}
